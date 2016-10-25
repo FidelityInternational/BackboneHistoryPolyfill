@@ -1,1 +1,1 @@
-"# BackboneHistoryPolyfill" 
+# BackboneHistoryPolyfill
