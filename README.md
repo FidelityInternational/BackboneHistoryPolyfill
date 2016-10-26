@@ -1,4 +1,4 @@
-# Backbone.History.Polyfil
+# Backbone.History.Polyfill
 
 ## Introduction
 
