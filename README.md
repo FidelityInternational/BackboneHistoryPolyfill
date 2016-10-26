@@ -12,7 +12,7 @@ It also have a addition capability to validate the hash against the routes defin
 
 ## Download + Source
 
-Clone this repository or simply download
+Clone this repository or simply [download](https://raw.githubusercontent.com/FidelityInternational/BackboneHistoryPolyfill/master/src/backbone.history.polyfill.js)
 
 You must also ensure that Backbone.History.Polyfil's dependencies on Backbone are downloaded.
 
