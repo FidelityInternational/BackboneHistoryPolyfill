@@ -65,7 +65,7 @@ MIT
 If you would like to contribute to Backbone History Polyfill's source code, please read the [guidelines for pull requests and contributions]().
 Following these guidelines will help make your contributions easier to bring into the next release.
 
-### How to report an issues
+### How to report issues
 
 Report issues with Backbone History Polyfill, submit pull requests to fix problems, or to
 create summarized and documented feature requests (preferably with pull
